@@ -1,4 +1,6 @@
-## My name is Joseph Rich, and I am an MD/PhD student in the USC-Caltech MD/PhD program. I am currently a PhD student in the Pachter lab at Caltech with interests including computational biology, artificial intelligence, and medical imaging.
+## Welcome to my GitHub profile!
+
+My name is Joseph Rich, and I am an MD/PhD student in the USC-Caltech MD/PhD program. I am currently a PhD student in the Pachter lab at Caltech with interests including computational biology, artificial intelligence, and medical imaging.
 
 My projects:
 - TomatoSeq: in progress

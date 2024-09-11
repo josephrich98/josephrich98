@@ -1,10 +1,10 @@
 ## My name is Joseph Rich, and I am an MD/PhD student in the USC-Caltech MD/PhD program. I am currently a PhD student in the Pachter lab at Caltech with interests including computational biology, artificial intelligence, and medical imaging.
 
 My projects:
-TomatoSeq: in progress
-Single Cell RNA-seq package selection and version control analysis (RMEJLBASBMP_2024): https://github.com/pachterlab/RMEJLBASBMP_2024.git
-gget (mutate, cbio, cosmic): https://github.com/pachterlab/gget.git
-Voyager Python (Visium, Xenium vignettes): https://github.com/pachterlab/voyagerpy.git
+- TomatoSeq: in progress
+- Single Cell RNA-seq package selection and version control analysis (RMEJLBASBMP_2024): https://github.com/pachterlab/RMEJLBASBMP_2024.git
+- gget (mutate, cbio, cosmic): https://github.com/pachterlab/gget.git
+- Voyager Python (Visium, Xenium vignettes): https://github.com/pachterlab/voyagerpy.git
 
 My publications: https://scholar.google.com/citations?user=vtDtrHoAAAAJ&hl=en&oi=sra
 
